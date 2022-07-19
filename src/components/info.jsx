@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePicture from "../assets/man.jpg";
+import ProfilePicture from "../assets/profile-picture.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import * as Icons from "@fortawesome/free-solid-svg-icons";
 import * as BrandIcons from "@fortawesome/free-brands-svg-icons";

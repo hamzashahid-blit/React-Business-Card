@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Digital Business Card w/ React
+I made a small card to practice React. I built this on my own but took reference of this react course: https://www.youtube.com/watch?v=bMknfKXIFA8
+
+Here is a preview of what my app looks like:
+INSERT FILE HERE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
