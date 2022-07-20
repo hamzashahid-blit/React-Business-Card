@@ -3,7 +3,7 @@ I made a small card to practice React. I built this on my own but took reference
 of this [[https://www.youtube.com/watch?v=bMknfKXIFA8][react course]].
 
 Here is a preview of what my app looks like:
-[[./src/assets/digital-business-card-preview.png][app-preview]]
+[[file:src/assets/digital-business-card-preview.png]]
 
 This project was bootstrapped with [[https://github.com/facebook/create-react-app][Create React App]].
 
